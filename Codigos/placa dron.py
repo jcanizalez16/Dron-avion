@@ -1,3 +1,4 @@
+#este es el codigo de la placa que ira en el dron
 import network
 import espnow
 from machine import Pin, PWM
